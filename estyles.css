@@ -73,17 +73,21 @@ h1{ font: 700;
     font-size: 60px;
     text-align: left;
     padding-bottom: 40px;
+    margin-left: 29px;
 }
 
-p{ font-size: 17px;
+p{ font-size: 28px;
     font-family: 'Poppins';
     text-align: left;
     padding-bottom: 40px;
+    margin-left: 29px;
 }
 
 #ultimo-link{ 
     padding-bottom: 25px;
     color:#6FBF44;
+    margin-left: 29px;
+    font-size: 27px;
 }
 
 #ultimo-link:hover{ color: rgb(10, 167, 70); }
