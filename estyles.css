@@ -1,0 +1,92 @@
+*{
+    margin:0;
+    padding: 0;
+    
+}
+
+#a1{ margin-left: 42px ; 
+    margin-top: 47px ; }
+
+#a2{ margin-left: 32px ;
+    margin-top: 47px; }
+
+#a3{ margin-left: 32px;
+    margin-top: 47px; }
+
+#a4{ margin-left: 32px;
+    margin-top: 48px; }
+
+#botao{ background-color: #6FBF44;
+    margin-left: 32px;
+    margin-top: 32px; 
+    border-radius:6px ;
+    border: none;
+    padding: 13px 29px 14px 28px;
+    cursor: pointer; }
+
+#botao:hover{ background: #78eba8;}
+
+#foto-pincipal{ 
+    width: 533.83px;    
+    height: 466.9px;
+    margin-top: 127px;
+    margin-left: 95px;
+    position: absolute; }
+
+#foto-de-fundo{ width: 580.17px;
+    height: 374.82px; 
+    margin-top: 220.18px;
+    margin-left: 40px;
+    position: static; }
+
+#estrela-lado-direito{ width: 46.8;
+    height: 46.8;
+    margin-top: 380px;
+    margin-left: 540px;
+    position: absolute;}
+
+#estrela-encima-do-dedo{ width: 24.7px;
+    height: 24.7px;
+    position: absolute;
+    margin-top:100px ;
+    margin-left: 329px; }
+
+#estrela-perto-do-cotovelo{ width: 24.7px;
+    height: 24.7px; 
+    margin-top:420px ;
+    margin-left:80px ;
+    position: absolute;}
+
+#estrela-perto-da-cabeça{ width: 46.8px;
+    height: 46.9px;
+    margin-top: 200px;
+    margin-left:120px ;
+    position: absolute;}
+
+#primeira-div{ display: block;
+    display: inline-block; }
+
+#segunda-div{ display: inline-block; }
+
+h1{ font: 700;
+    font-family: 'poppins';
+    font-size: 60px;
+    text-align: left;
+    padding-bottom: 40px;
+}
+
+p{ font-size: 17px;
+    font-family: 'Poppins';
+    text-align: left;
+    padding-bottom: 40px;
+}
+
+#ultimo-link{ 
+    padding-bottom: 25px;
+    color:#6FBF44;
+}
+
+#ultimo-link:hover{ color: rgb(10, 167, 70); }
+
+
+
